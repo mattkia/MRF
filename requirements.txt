@@ -1,0 +1,8 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+networkx
+opencv-python
+opencv-contrib-python
+simanneal
